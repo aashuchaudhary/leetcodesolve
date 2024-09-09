@@ -63,6 +63,7 @@ A places where leetcode interview question solution
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
