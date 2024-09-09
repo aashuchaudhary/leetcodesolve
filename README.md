@@ -9,6 +9,7 @@ A places where leetcode interview question solution
 | [0046-permutations](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
@@ -38,6 +39,7 @@ A places where leetcode interview question solution
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -57,6 +59,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
