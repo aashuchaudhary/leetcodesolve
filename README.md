@@ -6,6 +6,7 @@ A places where leetcode interview question solution
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -105,5 +106,6 @@ A places where leetcode interview question solution
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
