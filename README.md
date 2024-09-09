@@ -21,6 +21,7 @@ A places where leetcode interview question solution
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -64,6 +65,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
