@@ -114,6 +114,7 @@ A places where leetcode interview question solution
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
+| [1205-defanging-an-ip-address](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 ## Number Theory
 |  |
