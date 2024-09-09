@@ -56,4 +56,16 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [1054-complement-of-base-10-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1054-complement-of-base-10-integer) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
