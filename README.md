@@ -48,5 +48,6 @@ A places where leetcode interview question solution
 ## Database
 |  |
 | ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
