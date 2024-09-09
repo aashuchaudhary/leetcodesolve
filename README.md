@@ -70,6 +70,7 @@ A places where leetcode interview question solution
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
+| [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 ## Brainteaser
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 <!---LeetCode Topics End-->
