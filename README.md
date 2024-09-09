@@ -55,6 +55,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
@@ -78,6 +79,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0007-reverse-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
@@ -103,6 +105,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
