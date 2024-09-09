@@ -6,6 +6,7 @@ A places where leetcode interview question solution
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
@@ -23,6 +24,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -147,6 +149,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -191,4 +194,12 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
