@@ -65,6 +65,7 @@ A places where leetcode interview question solution
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
