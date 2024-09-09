@@ -26,6 +26,7 @@ A places where leetcode interview question solution
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
@@ -69,6 +70,7 @@ A places where leetcode interview question solution
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 ## Brainteaser
@@ -87,4 +89,8 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
