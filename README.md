@@ -52,4 +52,8 @@ A places where leetcode interview question solution
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1801-average-time-of-process-per-machine) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
