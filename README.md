@@ -45,4 +45,8 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
