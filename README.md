@@ -8,6 +8,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0046-permutations](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
@@ -55,6 +56,7 @@ A places where leetcode interview question solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
@@ -88,6 +90,7 @@ A places where leetcode interview question solution
 | [0007-reverse-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
