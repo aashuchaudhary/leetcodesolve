@@ -23,6 +23,7 @@ A places where leetcode interview question solution
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
+| [1646-kth-missing-positive-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1646-kth-missing-positive-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
@@ -52,6 +53,7 @@ A places where leetcode interview question solution
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
+| [1646-kth-missing-positive-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
