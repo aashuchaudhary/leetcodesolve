@@ -34,6 +34,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
@@ -84,6 +85,7 @@ A places where leetcode interview question solution
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -108,6 +110,7 @@ A places where leetcode interview question solution
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 ## Number Theory
