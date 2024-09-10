@@ -151,6 +151,7 @@ A places where leetcode interview question solution
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
