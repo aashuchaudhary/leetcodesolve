@@ -25,6 +25,7 @@ A places where leetcode interview question solution
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1646-kth-missing-positive-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
@@ -91,6 +92,7 @@ A places where leetcode interview question solution
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
@@ -109,6 +111,7 @@ A places where leetcode interview question solution
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1054-complement-of-base-10-integer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -152,6 +155,7 @@ A places where leetcode interview question solution
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
@@ -205,6 +209,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
 | ------- |
