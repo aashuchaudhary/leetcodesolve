@@ -76,6 +76,7 @@ A places where leetcode interview question solution
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -119,6 +120,7 @@ A places where leetcode interview question solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
@@ -143,6 +145,7 @@ A places where leetcode interview question solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
