@@ -161,6 +161,7 @@ A places where leetcode interview question solution
 | [0006-zigzag-conversion](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
@@ -252,4 +253,8 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
