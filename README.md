@@ -6,6 +6,7 @@ A places where leetcode interview question solution
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0035-search-insert-position) |
@@ -47,6 +48,7 @@ A places where leetcode interview question solution
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0035-search-insert-position) |
@@ -192,6 +194,7 @@ A places where leetcode interview question solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
