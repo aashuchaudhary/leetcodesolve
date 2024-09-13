@@ -148,6 +148,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -156,6 +157,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -185,6 +187,7 @@ A places where leetcode interview question solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
