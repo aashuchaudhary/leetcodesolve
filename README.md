@@ -24,6 +24,7 @@ A places where leetcode interview question solution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@ A places where leetcode interview question solution
 | [0015-3sum](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 ## Binary Search
@@ -180,6 +182,7 @@ A places where leetcode interview question solution
 | [0020-valid-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
@@ -259,6 +262,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
