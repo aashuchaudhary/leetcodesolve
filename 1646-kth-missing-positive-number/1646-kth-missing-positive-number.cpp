@@ -6,7 +6,7 @@ public:
         while(start<=end)
         {
             mid = start +(end-start)/2;
-
+            // Missing count check
             if(arr[mid]-mid-1>=k)
             {
                 ans=mid;
