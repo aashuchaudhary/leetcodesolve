@@ -156,6 +156,7 @@ A places where leetcode interview question solution
 | [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
@@ -180,6 +181,7 @@ A places where leetcode interview question solution
 | [0010-regular-expression-matching](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
@@ -196,6 +198,7 @@ A places where leetcode interview question solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
@@ -230,10 +233,12 @@ A places where leetcode interview question solution
 | [0022-generate-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
