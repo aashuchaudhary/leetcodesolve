@@ -198,6 +198,7 @@ A places where leetcode interview question solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
@@ -273,6 +274,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
@@ -303,4 +305,12 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
