@@ -8,7 +8,7 @@ public:
 
         while(start<=end)
         {
-           int mid= start +(end-start)/2;
+          mid= start +(end-start)/2;
         //    I find my element
             if(arr[mid]==target)
             return mid;
