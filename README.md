@@ -159,6 +159,7 @@ A places where leetcode interview question solution
 | [0009-palindrome-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
@@ -185,6 +186,7 @@ A places where leetcode interview question solution
 | [0002-add-two-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
