@@ -30,6 +30,7 @@ A places where leetcode interview question solution
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
@@ -82,6 +83,7 @@ A places where leetcode interview question solution
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
@@ -346,4 +348,16 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0386-lexicographical-numbers) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
