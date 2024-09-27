@@ -31,6 +31,7 @@ A places where leetcode interview question solution
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
@@ -84,6 +85,7 @@ A places where leetcode interview question solution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
@@ -102,6 +104,7 @@ A places where leetcode interview question solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -352,12 +355,15 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
