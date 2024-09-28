@@ -33,6 +33,7 @@ A places where leetcode interview question solution
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
@@ -116,6 +117,7 @@ A places where leetcode interview question solution
 | [0021-merge-two-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0023-merge-k-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -242,6 +244,7 @@ A places where leetcode interview question solution
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -356,6 +359,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
