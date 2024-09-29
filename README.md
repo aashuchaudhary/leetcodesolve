@@ -85,6 +85,7 @@ A places where leetcode interview question solution
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0792-binary-search) |
@@ -161,6 +162,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0029-divide-two-integers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
@@ -377,4 +379,12 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
