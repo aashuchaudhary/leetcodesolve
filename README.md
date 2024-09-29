@@ -116,6 +116,7 @@ A places where leetcode interview question solution
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0023-merge-k-sorted-lists) |
+| [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
@@ -137,6 +138,7 @@ A places where leetcode interview question solution
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
+| [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -357,6 +359,7 @@ A places where leetcode interview question solution
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
@@ -370,4 +373,8 @@ A places where leetcode interview question solution
 | ------- |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
