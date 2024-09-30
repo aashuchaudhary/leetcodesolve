@@ -29,7 +29,7 @@ class Solution:
         #          and it should be connected to all of the values
 
         # record all child values, i.e. all nodes that will have incident edges,
-        # so we can scan `trees` for root candidates
+        # so we can scan trees for root candidates
         children = set()
         for t in trees:
             for c in [t.left, t.right]:
@@ -54,7 +54,7 @@ class Solution:
         # now there's only one possible node:
         #    > it must be a BST
         #    > it must contain all of the trees
-        #        (edge case: we can have a cycle plus a separate tree rooted at `root`)
+        #        (edge case: we can have a cycle plus a separate tree rooted at root)
         tree_dict = {t.val : t for t in trees}
         unseen = {t.val for t in trees}
 
