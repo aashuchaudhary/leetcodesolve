@@ -120,6 +120,7 @@ A places where leetcode interview question solution
 | [0021-merge-two-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0023-merge-k-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
@@ -189,6 +190,7 @@ A places where leetcode interview question solution
 | [0258-add-digits](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
@@ -332,6 +334,7 @@ A places where leetcode interview question solution
 | [0020-valid-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
