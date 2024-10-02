@@ -38,6 +38,7 @@ A places where leetcode interview question solution
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -76,6 +77,7 @@ A places where leetcode interview question solution
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A places where leetcode interview question solution
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
