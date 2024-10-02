@@ -1,29 +1,20 @@
 class Solution {
 public:
-    using int2=pair<int, int>;
-    static vector<int> arrayRankTransform(vector<int>& arr) {
-        const int n=arr.size();
-        vector<int2> arrIdx(n);
-        for(int i=0; int x: arr){
-            arrIdx[i]={x, i};
+    vector<int> arrayRankTransform(vector<int>& arr) {
+        vector<int>a=arr;
+        sort(a.begin(),a.end());
+        unordered_map<int,int>mp;
+        int i=0,n=arr.size(),rank=1;
+        while(i<n){
+            if(i==0){}
+            else if(a[i]==a[i-1]){}
+            else rank++;
+            mp[a[i]]=rank;
             i++;
         }
-        sort(arrIdx.begin(), arrIdx.end());
-        vector<int> ans(n);
-        int prev=INT_MIN, curr=0;
-        for(auto& [x, i]: arrIdx){
-            if (x>prev) curr++;
-            ans[i]=curr;
-            prev=x;
+        for(auto &x:arr){
+            x=mp[x];
         }
-        return ans;
+        return arr;
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
