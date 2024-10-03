@@ -1,37 +1,33 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int start =0, end=0, mid , ans, n=piles.size();
-        long long sum=0;
-        for(int i=0;i<n;i++)
-        {
-            sum+=piles[i];
-            end=max(end,piles[i]);
+        long long start = 1, end = 0, ans, mid;  // Use long long for large ranges
+        int n = piles.size();
+
+        // Calculate the maximum pile value to set the upper limit (end)
+        for (int i = 0; i < n; i++) {
+            end = max(end, (long long)piles[i]);  // Convert to long long
         }
-        start=sum/h;
-        if(!start)
-        start=1;
-        while(start<=end)
-        {
-            mid=start+(end-start)/2;
-            // mid amount of bananas consumed in one hours
-            int total_time =0;
-            for(int i=0;i<n;i++)
-            {
-                total_time+=piles[i]/mid;
-                if(piles[i]%mid)
-                total_time++;
+
+        // Binary search to find the minimum eating speed
+        while (start <= end) {
+            mid = start + (end - start) / 2;  // Calculate mid safely
+
+            // Calculate the total time required to eat all piles at speed 'mid'
+            long long total_time = 0;
+            for (int i = 0; i < n; i++) {
+                total_time += (piles[i] + mid - 1) / mid;  // Ceiling division
             }
-            if(total_time > h)
-            {
-                start= mid+1;
-            }
-            else
-            {
-            ans=mid;
-            end = mid-1;
+
+            // If total time exceeds h, increase the speed
+            if (total_time > h) {
+                start = mid + 1;
+            } else {
+                ans = mid;  // Try to minimize speed
+                end = mid - 1;
             }
         }
+
         return ans;
     }
 };
