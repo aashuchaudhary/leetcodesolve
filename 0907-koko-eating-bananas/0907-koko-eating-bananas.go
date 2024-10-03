@@ -1,53 +1,33 @@
-// Let's break down the Go code for the "minEatingSpeed" problem, where we need to determine the minimum eating speed such that all bananas are eaten within h hours:
-
-// Step-by-Step Breakdown:
-// Define Range for Speed:
-
-// We initialize start as 1 (minimum possible speed) and end as the maximum number of bananas in any pile (maxPile). This defines the search range for the minimum eating speed.
-// Binary Search for Optimal Speed:
-
-// We perform a binary search between start and end. At each iteration, we calculate mid (the potential eating speed).
-// Calculate Total Time:
-
-// For each pile, we calculate how many hours it would take to eat all the bananas at speed mid. This is done using integer division. If there are leftover bananas (when piles[i] % mid is not zero), we add an extra hour to the total.
-// Check Feasibility:
-
-// If the total hours exceed h, it means the current speed mid is too slow, so we increase the speed (start = mid + 1).
-// Otherwise, we record mid as a valid answer and try to find a smaller valid speed by decreasing the speed (end = mid - 1).
-// Return Result:
-
-// The smallest valid eating speed is returned after the binary search.
-// By narrowing down the range of possible eating speeds using binary search, we efficiently find the minimum speed required to finish eating all the bananas within the given hours.
-
-
-
 func minEatingSpeed(piles []int, h int) int {
-    // Helper function to calculate the total hours needed at a given speed
-    totalHours := func(speed int) int {
-        total := 0
-        for _, pile := range piles {
-            total += (pile + speed - 1) / speed // Ceiling division
-        }
-        return total
-    }
-
-    // Set start and end boundaries for binary search
+    // Initialize start and end for binary search
     start, end := 1, 0
-    for _, pile := range piles {
-        if pile > end {
-            end = pile
+    n := len(piles)
+
+    // Calculate end as the maximum number of bananas in any pile
+    for i := 0; i < n; i++ {
+        if piles[i] > end {
+            end = piles[i]
         }
     }
 
-    // Binary search to find the minimum speed
+    var ans int
     for start <= end {
-        mid := start + (end-start)/2
-        if totalHours(mid) > h {
-            start = mid + 1
+        mid := start + (end - start) / 2
+        totalTime := 0
+        
+        // Calculate the total time required at speed mid
+        for i := 0; i < n; i++ {
+            totalTime += (piles[i] + mid - 1) / mid // Equivalent to math.ceil(piles[i]/mid)
+        }
+
+        // Check if total time is within the allowed hours
+        if totalTime <= h {
+            ans = mid // mid is a valid speed
+            end = mid - 1 // Try to find a smaller valid speed
         } else {
-            end = mid - 1
+            start = mid + 1 // Increase speed if time exceeds h
         }
     }
 
-    return start
+    return ans
 }
