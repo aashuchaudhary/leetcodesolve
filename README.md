@@ -50,6 +50,7 @@ A places where leetcode interview question solution
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -67,6 +68,7 @@ A places where leetcode interview question solution
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A places where leetcode interview question solution
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A places where leetcode interview question solution
 | [1694-make-sum-divisible-by-p](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
