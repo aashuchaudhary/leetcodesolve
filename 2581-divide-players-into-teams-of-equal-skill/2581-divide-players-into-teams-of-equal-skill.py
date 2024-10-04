@@ -16,9 +16,9 @@ class Solution:
         q = collections.deque(skill)
         chemistry = 0
 
-        while q:
-            a = q.popleft()  # Smallest element
-            b = q.pop()      # Largest element
+        for i in range(n//2):
+            a = skill[i]  # Smallest element
+            b = skill[n - i -1]      # Largest element
 
             if a + b != target_sum:  # Check if the pair matches the target sum
                 return -1
