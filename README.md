@@ -29,6 +29,7 @@ A places where leetcode interview question solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0729-my-calendar-i) |
@@ -142,6 +143,7 @@ A places where leetcode interview question solution
 | [0048-rotate-image](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -383,6 +385,7 @@ A places where leetcode interview question solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0386-lexicographical-numbers) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Design
@@ -417,4 +420,12 @@ A places where leetcode interview question solution
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
