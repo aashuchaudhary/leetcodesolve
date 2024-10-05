@@ -11,6 +11,8 @@ class Solution:
         for i in range(len(nums) -1, -1,-1):
             nextDP = set()
             for T in dp:
+                if (T + nums[i]) == target:
+                    return True
                 nextDP.add(T + nums[i])
                 nextDP.add(T)
             dp = nextDP
