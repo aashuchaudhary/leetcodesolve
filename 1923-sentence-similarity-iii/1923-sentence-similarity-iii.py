@@ -1,26 +1,23 @@
 class Solution:
     def areSentencesSimilar(self, sentence1: str, sentence2: str) -> bool:
-        # Split sentences into words
-        s1 = sentence1.split(" ")
-        s2 = sentence2.split(" ")
+        # Split the sentences into words
+        words1 = sentence1.split()
+        words2 = sentence2.split()
 
-        # Ensure s1 is always the longer one (or they are equal)
-        if len(s2) < len(s1):
-            s1, s2 = s2, s1  # Swap to make s1 the longer one
-
-        # Two pointer approach: match prefixes and suffixes
-        l1, l2 = 0, 0  # Start of both lists
-
-        # Find the longest matching prefix of both sentences
-        while l1 < len(s1) and l2 < len(s2) and s1[l1] == s2[l2]:
-            l1, l2 = l1 + 1, l2 + 1
-
-        # Right pointers for matching suffix
-        r1, r2 = len(s1) - 1, len(s2) - 1  # Initialize correctly
-
-        # Find the longest matching suffix of both sentences
-        while r1 >= 0 and r2 >= 0 and s1[r1] == s2[r2]:
-            r1, r2 = r1 - 1, r2 - 1
-
-        # If the left and right pointers have crossed, it's a match
-        return l1 > r1
+        # Ensure words1 is the longer sentence
+        if len(words1) < len(words2):
+            words1, words2 = words2, words1
+        
+        start, end = 0, 0
+        n1, n2 = len(words1), len(words2)
+        
+        # Compare from the start
+        while start < n2 and words1[start] == words2[start]:
+            start += 1
+        
+        # Compare from the end
+        while end < n2 and words1[n1 - end - 1] == words2[n2 - end - 1]:
+            end += 1
+        
+        # Check if the remaining unmatched part is in the middle
+        return start + end >= n2
