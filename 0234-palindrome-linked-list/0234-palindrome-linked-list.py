@@ -8,21 +8,30 @@ from typing import Optional
 
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        # Step 1: Traverse the linked list and store the values in a list
-        nums = []  # List to store node values
-        while head:
-            nums.append(head.val)  # Append each node's value to the list
-            head = head.next  # Move to the next node
+        # Step 1: Use two pointers (fast and slow) to find the middle of the linked list
+        fast = head  # Fast pointer moves two steps at a time
+        slow = head  # Slow pointer moves one step at a time
 
-        # Step 2: Initialize two pointers to check for palindrome
-        l, r = 0, len(nums) - 1  # Left pointer at the start, right pointer at the end
+        # Traverse the list to reach the middle
+        while fast and fast.next:
+            fast = fast.next.next  # Fast pointer moves by 2 nodes
+            slow = slow.next  # Slow pointer moves by 1 node
 
-        # Step 3: Compare values from the start and end of the list
-        while l <= r:  # Continue until the pointers cross
-            if nums[l] != nums[r]:  # If the values at the two pointers differ, it's not a palindrome
-                return False  # Return False if it's not a palindrome
-            l += 1  # Move the left pointer to the right
-            r -= 1  # Move the right pointer to the left
+        # Step 2: Reverse the second half of the linked list
+        prev = None  # This will hold the reversed second half
+        while slow:
+            tmp = slow.next  # Temporarily store the next node
+            slow.next = prev  # Reverse the pointer of the current node
+            prev = slow  # Move prev pointer to the current node
+            slow = tmp  # Move to the next node in the original list
 
-        # Step 4: If all elements matched, return True (it's a palindrome)
+        # Step 3: Compare the first half with the reversed second half
+        left, right = head, prev  # Left starts at the head, right starts at the beginning of the reversed half
+        while right:  # Only need to check the reversed half
+            if left.val != right.val:  # If the values don't match, it's not a palindrome
+                return False  # Return False if a mismatch is found
+            left = left.next  # Move left pointer forward
+            right = right.next  # Move right pointer forward (reversed second half)
+
+        # If all values matched, return True (it's a palindrome)
         return True
