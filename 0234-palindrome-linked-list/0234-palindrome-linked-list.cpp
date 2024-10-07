@@ -8,37 +8,28 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-         if (!head || !head->next) return true;
-
-        // Step 1: Find middle of the list (slow will point to the middle)
-        ListNode *slow = head, *fast = head;
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
+        // Vector to store the values of the linked list
+        vector<int> values;
+        
+        // Traverse the linked list and store each node's value in the vector
+        while (head != nullptr) {
+            values.push_back(head->val); // Append the current node's value
+            head = head->next;           // Move to the next node
         }
-
-        // Step 2: Reverse the second half of the list
-        ListNode* prev = nullptr;
-        while (slow) {
-            ListNode* temp = slow->next;
-            slow->next = prev;
-            prev = slow;
-            slow = temp;
+        
+        // Check for palindrome by comparing values from both ends of the vector
+        for (int i = 0; i < values.size() / 2; i++) {
+            // If values at the start and end don't match, it's not a palindrome
+            if (values[i] != values[values.size() - i - 1]) {
+                return false;  // Early return if mismatch is found
+            }
         }
-
-        // Step 3: Compare the first half with the reversed second half
-        ListNode* left = head;
-        ListNode* right = prev;
-        while (right) {
-            if (left->val != right->val) return false;
-            left = left->next;
-            right = right->next;
-        }
-
+        
+        // If no mismatches found, it is a palindrome
         return true;
-    
     }
 };
