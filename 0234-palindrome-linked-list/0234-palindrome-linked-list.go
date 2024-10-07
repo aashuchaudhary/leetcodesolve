@@ -1,39 +1,18 @@
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
+package main
 func isPalindrome(head *ListNode) bool {
-    if head == nil || head.Next == nil {
-        return true
+    var values []int
+
+    // Store linked list values in a slice
+    for head != nil {
+        values = append(values, head.Val)
+        head = head.Next
     }
 
-    // Step 1: Find middle of the list (slow will point to the middle)
-    slow, fast := head, head
-    for fast != nil && fast.Next != nil {
-        slow = slow.Next
-        fast = fast.Next.Next
-    }
-
-    // Step 2: Reverse the second half of the list
-    var prev *ListNode
-    for slow != nil {
-        temp := slow.Next
-        slow.Next = prev
-        prev = slow
-        slow = temp
-    }
-
-    // Step 3: Compare the first half with the reversed second half
-    left, right := head, prev
-    for right != nil {
-        if left.Val != right.Val {
+    // Check if the slice is a palindrome by comparing from both ends
+    for i := 0; i < len(values)/2; i++ {
+        if values[i] != values[len(values)-i-1] {
             return false
         }
-        left = left.Next
-        right = right.Next
     }
 
     return true
