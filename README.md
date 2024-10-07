@@ -117,6 +117,7 @@ A places where leetcode interview question solution
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A places where leetcode interview question solution
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Number Theory
 |  |
@@ -360,6 +362,7 @@ A places where leetcode interview question solution
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
