@@ -11,23 +11,34 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-         // Step 1: Convert linked list to array
-        vector<int> nums;
-        while (head != nullptr) {
-            nums.push_back(head->val);
-            head = head->next;
+         if (!head || !head->next) return true;
+
+        // Step 1: Find middle of the list (slow will point to the middle)
+        ListNode *slow = head, *fast = head;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        // Step 2: Check if array is a palindrome
-        int left = 0, right = nums.size() - 1;
-        while (left < right) {
-            if (nums[left] != nums[right]) {
-                return false;
-            }
-            left++;
-            right--;
+        // Step 2: Reverse the second half of the list
+        ListNode* prev = nullptr;
+        while (slow) {
+            ListNode* temp = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = temp;
         }
 
-        return true; // It is a palindrome
+        // Step 3: Compare the first half with the reversed second half
+        ListNode* left = head;
+        ListNode* right = prev;
+        while (right) {
+            if (left->val != right->val) return false;
+            left = left->next;
+            right = right->next;
+        }
+
+        return true;
+    
     }
 };
