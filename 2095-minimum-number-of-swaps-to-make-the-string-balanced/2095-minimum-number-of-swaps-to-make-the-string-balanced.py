@@ -8,4 +8,4 @@ class Solution:
             else:
                 close += 1
             maxClose = max(close,maxClose)
-        return (maxClose + 1)//2
+        return math.ceil(maxClose / 2)
