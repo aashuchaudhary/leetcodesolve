@@ -1,15 +1,16 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int size  =0;
+        stack<char>st;
 
         for(char &ch : s){
             if(ch =='['){
-                size++;
-            }else if(size > 0) {
-                size--;
+                st.push(ch);
+            }else if(!st.empty()) {
+                st.pop();
             }
         }
-        return (size + 1) / 2;
+        // size of stack  =  no of thhe open bRaackets
+        return (st.size() + 1) / 2;
     }
 };
