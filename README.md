@@ -262,6 +262,7 @@ A places where leetcode interview question solution
 | [0567-permutation-in-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -358,6 +359,7 @@ A places where leetcode interview question solution
 | [0011-container-with-most-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
@@ -368,6 +370,7 @@ A places where leetcode interview question solution
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2800-minimum-string-length-after-removing-substrings) |
