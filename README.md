@@ -51,6 +51,7 @@ A places where leetcode interview question solution
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -76,6 +77,7 @@ A places where leetcode interview question solution
 | [0234-palindrome-linked-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1923-sentence-similarity-iii) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -112,6 +114,7 @@ A places where leetcode interview question solution
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1675-magnetic-force-between-two-balls) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Simulation
