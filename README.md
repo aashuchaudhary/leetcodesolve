@@ -39,6 +39,7 @@ A places where leetcode interview question solution
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
@@ -374,6 +375,7 @@ A places where leetcode interview question solution
 | [0234-palindrome-linked-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -381,6 +383,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
 ## Enumeration
 |  |
 | ------- |
