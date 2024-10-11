@@ -53,6 +53,7 @@ A places where leetcode interview question solution
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -178,6 +179,7 @@ A places where leetcode interview question solution
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2755-extra-characters-in-a-string) |
@@ -330,6 +332,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |
