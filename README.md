@@ -55,6 +55,7 @@ A places where leetcode interview question solution
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2227-sum-of-subarray-ranges](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -402,12 +403,14 @@ A places where leetcode interview question solution
 | [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2227-sum-of-subarray-ranges](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
+| [2227-sum-of-subarray-ranges](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2227-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
