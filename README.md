@@ -237,6 +237,7 @@ A places where leetcode interview question solution
 | [0415-add-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1260-day-of-the-year) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -390,6 +391,7 @@ A places where leetcode interview question solution
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
