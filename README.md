@@ -25,6 +25,7 @@ A places where leetcode interview question solution
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
@@ -211,6 +212,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0029-divide-two-integers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1054-complement-of-base-10-integer) |
