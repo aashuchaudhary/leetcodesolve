@@ -56,6 +56,7 @@ A places where leetcode interview question solution
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
@@ -219,6 +220,7 @@ A places where leetcode interview question solution
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Math
@@ -319,6 +321,7 @@ A places where leetcode interview question solution
 | [0046-permutations](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A places where leetcode interview question solution
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Trie
 |  |
