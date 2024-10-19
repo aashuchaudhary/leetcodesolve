@@ -1,16 +1,34 @@
 func findClosestElements(arr []int, k int, x int) []int {
 	left, right := 0, len(arr)-1
 
-	// Binary search to find the closest element to x
-	for right-left >= k {
-		if abs(arr[left]-x) <= abs(arr[right]-x) {
-			right-- // Remove the rightmost element
+	// Perform binary search
+	for left < right {
+		mid := left + (right-left)/2
+		if arr[mid] < x {
+			left = mid + 1
 		} else {
-			left++ // Remove the leftmost element
+			right = mid
 		}
 	}
 
-	return arr[left : left+k]
+	// Set left to the position where the closest element could be
+	right = left
+	left = right - 1
+
+	// Collect k closest elements
+	for i := 0; i < k; i++ {
+		if left < 0 {
+			right++
+		} else if right >= len(arr) {
+			left--
+		} else if abs(arr[left]-x) <= abs(arr[right]-x) {
+			left--
+		} else {
+			right++
+		}
+	}
+
+	return arr[left+1 : right]
 }
 
 func abs(num int) int {
