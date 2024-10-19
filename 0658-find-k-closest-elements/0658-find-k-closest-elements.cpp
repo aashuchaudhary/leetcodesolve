@@ -1,26 +1,37 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-               // Create a max-heap to keep track of the k closest elements
-        priority_queue<pair<int, int>> maxHeap;
+             // Find the position of the closest element to x using binary search
+        int n = arr.size();
+        int left = 0, right = n - 1;
 
-        for (int num : arr) {
-            // Calculate the distance from x
-            int distance = abs(num - x);
-            // Push the distance and number onto the heap
-            maxHeap.push({distance, num});
-            
-            // If the heap size exceeds k, pop the farthest element
-            if (maxHeap.size() > k) {
-                maxHeap.pop();
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (arr[mid] < x) {
+                left = mid + 1;
+            } else {
+                right = mid;
             }
         }
 
-        // Extract the k closest elements from the heap
+        // Initialize two pointers
+        int start = left - 1; // pointer to the left of the closest position
+        int end = left;       // pointer to the closest position
+
+        // Collect k closest elements
         vector<int> result;
-        while (!maxHeap.empty()) {
-            result.push_back(maxHeap.top().second);
-            maxHeap.pop();
+
+        while (k--) {
+            // If we've exhausted one side, we need to take from the other
+            if (start < 0) {
+                result.push_back(arr[end++]);
+            } else if (end >= n) {
+                result.push_back(arr[start--]);
+            } else if (abs(arr[start] - x) <= abs(arr[end] - x)) {
+                result.push_back(arr[start--]);
+            } else {
+                result.push_back(arr[end++]);
+            }
         }
 
         // Sort the result before returning
