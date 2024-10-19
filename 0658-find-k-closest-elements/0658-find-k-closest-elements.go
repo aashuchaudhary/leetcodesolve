@@ -1,34 +1,33 @@
+
 func findClosestElements(arr []int, k int, x int) []int {
-	left, right := 0, len(arr)-1
+	distanceMap := make([]struct {
+		Value    int
+		Distance int
+	}, len(arr))
 
-	// Perform binary search
-	for left < right {
-		mid := left + (right-left)/2
-		if arr[mid] < x {
-			left = mid + 1
-		} else {
-			right = mid
-		}
+	for i, num := range arr {
+		distanceMap[i] = struct {
+			Value    int
+			Distance int
+		}{Value: num, Distance: abs(num - x)}
 	}
 
-	// Set left to the position where the closest element could be
-	right = left
-	left = right - 1
+	// Sort by distance, and then by value if distances are equal
+	sort.Slice(distanceMap, func(i, j int) bool {
+		if distanceMap[i].Distance == distanceMap[j].Distance {
+			return distanceMap[i].Value < distanceMap[j].Value
+		}
+		return distanceMap[i].Distance < distanceMap[j].Distance
+	})
 
-	// Collect k closest elements
+	// Collect the closest k elements
+	result := make([]int, 0, k)
 	for i := 0; i < k; i++ {
-		if left < 0 {
-			right++
-		} else if right >= len(arr) {
-			left--
-		} else if abs(arr[left]-x) <= abs(arr[right]-x) {
-			left--
-		} else {
-			right++
-		}
+		result = append(result, distanceMap[i].Value)
 	}
 
-	return arr[left+1 : right]
+	sort.Ints(result) // Sort the result before returning
+	return result
 }
 
 func abs(num int) int {
