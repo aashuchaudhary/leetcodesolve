@@ -1,35 +1,47 @@
 class Solution {
 public:
     bool parseBoolExpr(string expression) {
-        stack<char> st;
-
-        for (char currChar : expression) {
-            if (currChar == ',' || currChar == '(')
-                continue;  
-            if (currChar == 't' || currChar == 'f' || currChar == '!' ||
-                currChar == '&' || currChar == '|') {
-                st.push(currChar);
-            }
-            else if (currChar == ')') {
-                bool hasTrue = false, hasFalse = false;
-
-                while (st.top() != '!' && st.top() != '&' && st.top() != '|') {
-                    char topValue = st.top();
-                    st.pop();
-                    if (topValue == 't') hasTrue = true;
-                    if (topValue == 'f') hasFalse = true;
+        stack<char> stk;  // Stack to hold characters and operators
+        
+        // Iterate over each character in the expression
+        for (char c: expression) {
+            // Push valid characters (non ')' and non ',') to the stack
+            if (c != ')' && c != ',') stk.push(c);
+            else if (c == ')') {  // When ')' is encountered, evaluate subexpression
+                vector<bool> exp;  // Vector to hold boolean values of the current subexpression
+                
+                // Pop characters until '(' is found, collect 't' or 'f' values
+                while (!stk.empty() && stk.top() != '(') {
+                    char t = stk.top(); 
+                    stk.pop();
+                    if (t == 't') exp.push_back(true);
+                    else exp.push_back(false);
                 }
-                char op = st.top();
-                st.pop();
-                if (op == '!') {
-                    st.push(hasTrue ? 'f' : 't');
-                } else if (op == '&') {
-                    st.push(hasFalse ? 'f' : 't');
-                } else {
-                    st.push(hasTrue ? 't' : 'f');
+                
+                stk.pop();  // Pop the '(' from the stack
+                
+                if (!stk.empty()) {
+                    char t = stk.top();  // Get the operator before '('
+                    stk.pop();
+                    bool v = exp[0];  // Initialize result with the first value
+                    
+                    // Perform the corresponding logical operation
+                    if (t == '&') {  // AND operation: all values must be true
+                        for (bool b: exp) v &= b;
+                    } else if (t == '|') {  // OR operation: at least one value is true
+                        for (bool b: exp) v |= b;
+                    } else {  // NOT operation: negate the first value
+                        v = !v;
+                    }
+                    
+                    // Push the result back to the stack as 't' or 'f'
+                    if (v) stk.push('t');
+                    else stk.push('f');
                 }
             }
         }
-        return st.top() == 't';
+        
+        // Return the final result from the stack
+        return stk.top() == 't' ? true : false;
     }
 };
