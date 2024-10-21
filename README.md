@@ -32,6 +32,7 @@ A places where leetcode interview question solution
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0416-partition-equal-subset-sum) |
+| [0525-contiguous-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0658-find-k-closest-elements) |
@@ -149,6 +150,7 @@ A places where leetcode interview question solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -188,6 +190,7 @@ A places where leetcode interview question solution
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0432-all-oone-data-structure) |
+| [0525-contiguous-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0920-uncommon-words-from-two-sentences) |
