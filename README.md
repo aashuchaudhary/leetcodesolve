@@ -471,6 +471,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0988-flip-equivalent-binary-trees) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
@@ -499,6 +500,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
+| [0988-flip-equivalent-binary-trees](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0988-flip-equivalent-binary-trees) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -506,6 +508,7 @@ A places where leetcode interview question solution
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
+| [0988-flip-equivalent-binary-trees](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0988-flip-equivalent-binary-trees) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2677-cousins-in-binary-tree-ii) |
