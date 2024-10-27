@@ -48,6 +48,7 @@ A places where leetcode interview question solution
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -183,6 +184,7 @@ A places where leetcode interview question solution
 | [0054-spiral-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -353,6 +355,7 @@ A places where leetcode interview question solution
 | [0241-different-ways-to-add-parentheses](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
