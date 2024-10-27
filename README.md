@@ -31,6 +31,7 @@ A places where leetcode interview question solution
 | [0169-majority-element](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
+| [0334-increasing-triplet-subsequence](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
@@ -416,6 +417,7 @@ A places where leetcode interview question solution
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0409-longest-palindrome) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0670-maximum-swap) |
