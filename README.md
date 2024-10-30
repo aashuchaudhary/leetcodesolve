@@ -55,6 +55,7 @@ A places where leetcode interview question solution
 | [1646-kth-missing-positive-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -140,6 +141,7 @@ A places where leetcode interview question solution
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1675-magnetic-force-between-two-balls) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -362,6 +364,7 @@ A places where leetcode interview question solution
 | [0416-partition-equal-subset-sum](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -434,6 +437,7 @@ A places where leetcode interview question solution
 | [0670-maximum-swap](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
