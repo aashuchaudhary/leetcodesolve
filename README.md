@@ -316,6 +316,7 @@ A places where leetcode interview question solution
 | [0539-minimum-time-difference](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1197-parsing-a-boolean-expression) |
@@ -424,6 +425,7 @@ A places where leetcode interview question solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
