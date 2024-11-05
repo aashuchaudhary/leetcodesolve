@@ -1,8 +1,10 @@
 class Solution {
 public:
     int minChanges(string& s) {
-        return accumulate(s.begin(), s.end(), 0, [&, i=-1](int sum, auto _) mutable{
-            return sum+=((++i&1))?(s[i]!=s[i-1]):0;
-        });
+        const int n=s.size();
+        int cnt=0;
+        for(int i=0; i<n; i+=2)
+            cnt+=(s[i]!=s[i+1]);
+        return cnt;
     }
 };
