@@ -499,6 +499,7 @@ A places where leetcode interview question solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0988-flip-equivalent-binary-trees) |
@@ -531,6 +532,7 @@ A places where leetcode interview question solution
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0988-flip-equivalent-binary-trees) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -540,6 +542,7 @@ A places where leetcode interview question solution
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0222-count-complete-tree-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0988-flip-equivalent-binary-trees) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
