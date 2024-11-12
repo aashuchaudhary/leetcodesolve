@@ -63,6 +63,7 @@ A places where leetcode interview question solution
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2227-sum-of-subarray-ranges](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -120,6 +121,7 @@ A places where leetcode interview question solution
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1675-magnetic-force-between-two-balls) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -151,6 +153,7 @@ A places where leetcode interview question solution
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2586-longest-square-streak-in-an-array) |
 ## Simulation
 |  |
