@@ -43,6 +43,7 @@ A places where leetcode interview question solution
 | [0859-design-circular-deque](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
+| [0932-monotonic-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1019-squares-of-a-sorted-array) |
