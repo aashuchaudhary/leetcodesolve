@@ -45,6 +45,7 @@ A places where leetcode interview question solution
 | [0907-koko-eating-bananas](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -100,6 +101,7 @@ A places where leetcode interview question solution
 | [0234-palindrome-linked-list](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0658-find-k-closest-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1019-squares-of-a-sorted-array) |
 | [1923-sentence-similarity-iii](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1923-sentence-similarity-iii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -121,6 +123,7 @@ A places where leetcode interview question solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/aashuchaudhary/leetcodesolve/tree/master/1675-magnetic-force-between-two-balls) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aashuchaudhary/leetcodesolve/tree/master/2179-most-beautiful-item-for-each-query) |
